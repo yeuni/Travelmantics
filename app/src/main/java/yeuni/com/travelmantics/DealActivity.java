@@ -110,6 +110,7 @@ public class DealActivity extends AppCompatActivity {
         return true;
     }
 
+    //
     private void clean() {
         txtPrice.setText("");
         txtDescription.setText("");
